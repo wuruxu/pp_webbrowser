@@ -1,4 +1,4 @@
-# cr_proxy_pass
+# PP Web Browser
 a web browser based on chromium to work with nginx proxy_pass to access resources behind firewall
 
 ## Feature
